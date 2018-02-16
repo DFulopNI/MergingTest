@@ -9,3 +9,4 @@ Second branch modification.
 >>>>>>> MyNewBranch
 
 crazy experiment
+2
