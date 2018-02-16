@@ -7,3 +7,5 @@ Modified again in master.
 Modified on MyNewBranch.
 Second branch modification.
 >>>>>>> MyNewBranch
+
+crazy experiment
