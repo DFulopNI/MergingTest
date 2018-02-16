@@ -1,4 +1,9 @@
 Starting fresh.
 Getting ready to branch.
+<<<<<<< HEAD
 Modified in master.
 Modified again in master.
+=======
+Modified on MyNewBranch.
+Second branch modification.
+>>>>>>> MyNewBranch
